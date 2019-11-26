@@ -30,4 +30,6 @@ OUTPUT 6 S
 *arquivo para leitura*
 
 ![expressão lógica](https://user-images.githubusercontent.com/54586250/69635281-d4092600-1032-11ea-9bc4-d1cd73ee595a.png)
- *tabela verdade gerada*
+
+
+*tabela verdade gerada*
