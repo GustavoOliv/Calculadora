@@ -11,7 +11,7 @@ Nesse novo arquivo você vai colocar o circuito a ser resolvido, depois disso é
 **Para baixar para o seu computador:** Baixe o arquivo e coloque em algum compilador a sua escolha, ao executar o programa ele ira pedir para informar o caminho até o arquivo .txt com o circuito a ser solucionado, depois disso a tabela verdade será gerada.
 
 ### Exemplo de circuito
-Esse é um circuito usado para teste do programa.
+Esse é um circuito usado para teste do programa, se quiser testar o programa segue também o texto para o circuito circuito.
 ![c](https://user-images.githubusercontent.com/54586250/69636379-36632600-1035-11ea-8203-eef4e8da4acd.png)
 *ilustração do circuito*
 
@@ -32,3 +32,4 @@ OUTPUT 6 S
 ![expressão lógica](https://user-images.githubusercontent.com/54586250/69635281-d4092600-1032-11ea-9bc4-d1cd73ee595a.png)
 
 *tabela verdade gerada*
+
