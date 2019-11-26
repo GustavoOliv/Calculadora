@@ -12,6 +12,9 @@ Nesse novo arquivo você vai colocar o circuito a ser resolvido, depois disso é
 
 ### Exemplo de circuito
 Esse é um circuito usado para teste do programa.
+![c](https://user-images.githubusercontent.com/54586250/69636379-36632600-1035-11ea-8203-eef4e8da4acd.png)
+*ilustração do circuito*
+
 ```
 CIRCUIT Expressao logica
 NOT 1 4 
@@ -24,5 +27,6 @@ INPUT 2 B
 INPUT 3 C 
 OUTPUT 6 S 
 ```
+*arquivo para leitura*
 ![expressão lógica](https://user-images.githubusercontent.com/54586250/69635281-d4092600-1032-11ea-9bc4-d1cd73ee595a.png)
-
+*tabela verdade gerada*
