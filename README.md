@@ -34,3 +34,7 @@ OUTPUT 6 S
 
 *tabela verdade gerada*
 
+
+#### intgrantes do grupo
+Luís Gustavo e Heloiza Soares
+
